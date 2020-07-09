@@ -1,4 +1,4 @@
-[Image](https://github.com/MxRi007/iniengori/blob/master/desktop_image1.jpg)
+![Image](https://github.com/MxRi007/iniengori/blob/master/desktop_image1.jpg)
 
 
 ## Welcome to GitHub Pages
