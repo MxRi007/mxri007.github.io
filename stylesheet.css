@@ -1,1 +1,9 @@
 
+@font-face {
+  font-family: myFirstFont;
+  src: url(FFFFORWA.TTF);
+}
+
+body {
+  font-family: myFirstFont;
+}
